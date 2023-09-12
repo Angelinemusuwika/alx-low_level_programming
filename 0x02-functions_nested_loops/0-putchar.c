@@ -1,6 +1,9 @@
 #include "main.h"
-//program that prints putchar followed by a new line
-int main() {
+/**
+ * main - print _putchar
+ * followed by a new line
+ * Return: 0
+int main (void) {
 	putchar('_');
 	putchar('p');
 	putchar('u');
